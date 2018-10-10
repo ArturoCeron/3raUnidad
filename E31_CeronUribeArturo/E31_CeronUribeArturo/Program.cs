@@ -12,14 +12,14 @@ namespace E31_CeronUribeArturo
         {
             int numeroClases;
 
-            Console.Write("Cuantas clases va a ingresar: ");
+            Console.Write("Cuantas clases va a ingresar: "); //Ingresa y guarda la cantidad de clases
             numeroClases = Convert.ToInt32(Console.ReadLine());
 
             Console.Clear();
 
-            Calificaciones proceso = new Calificaciones();
-
-            proceso.Capturar(numeroClases);
+            Calificaciones proceso = new Calificaciones(); //Se crea el objeto de la clase Calificaciones
+ 
+            proceso.Capturar(numeroClases); //Se manda a llamar al método Capturar y se manda como parametro numeroClases
 
             Console.ReadKey();
         }
