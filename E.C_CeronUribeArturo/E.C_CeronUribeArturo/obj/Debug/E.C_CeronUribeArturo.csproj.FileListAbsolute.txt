@@ -1,0 +1,7 @@
+C:\Users\WORKING\source\repos\E.C_CeronUribeArturo\E.C_CeronUribeArturo\bin\Debug\E.C_CeronUribeArturo.exe.config
+C:\Users\WORKING\source\repos\E.C_CeronUribeArturo\E.C_CeronUribeArturo\bin\Debug\E.C_CeronUribeArturo.exe
+C:\Users\WORKING\source\repos\E.C_CeronUribeArturo\E.C_CeronUribeArturo\bin\Debug\E.C_CeronUribeArturo.pdb
+C:\Users\WORKING\source\repos\E.C_CeronUribeArturo\E.C_CeronUribeArturo\obj\Debug\E.C_CeronUribeArturo.csprojAssemblyReference.cache
+C:\Users\WORKING\source\repos\E.C_CeronUribeArturo\E.C_CeronUribeArturo\obj\Debug\E.C_CeronUribeArturo.csproj.CoreCompileInputs.cache
+C:\Users\WORKING\source\repos\E.C_CeronUribeArturo\E.C_CeronUribeArturo\obj\Debug\E.C_CeronUribeArturo.exe
+C:\Users\WORKING\source\repos\E.C_CeronUribeArturo\E.C_CeronUribeArturo\obj\Debug\E.C_CeronUribeArturo.pdb
