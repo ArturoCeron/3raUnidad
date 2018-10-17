@@ -1,0 +1,6 @@
+C:\Users\Arturo\Desktop\E3-2_CeronUribeArturo\E3-2_CeronUribeArturo\bin\Debug\E3-2_CeronUribeArturo.exe.config
+C:\Users\Arturo\Desktop\E3-2_CeronUribeArturo\E3-2_CeronUribeArturo\bin\Debug\E3-2_CeronUribeArturo.exe
+C:\Users\Arturo\Desktop\E3-2_CeronUribeArturo\E3-2_CeronUribeArturo\bin\Debug\E3-2_CeronUribeArturo.pdb
+C:\Users\Arturo\Desktop\E3-2_CeronUribeArturo\E3-2_CeronUribeArturo\obj\Debug\E3-2_CeronUribeArturo.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Desktop\E3-2_CeronUribeArturo\E3-2_CeronUribeArturo\obj\Debug\E3-2_CeronUribeArturo.exe
+C:\Users\Arturo\Desktop\E3-2_CeronUribeArturo\E3-2_CeronUribeArturo\obj\Debug\E3-2_CeronUribeArturo.pdb
