@@ -1,0 +1,12 @@
+C:\Users\Arturo\Desktop\E3-3_CeronUribeArturo\E3-3_CeronUribeArturo\bin\Debug\E3-3_CeronUribeArturo.exe.config
+C:\Users\Arturo\Desktop\E3-3_CeronUribeArturo\E3-3_CeronUribeArturo\bin\Debug\E3-3_CeronUribeArturo.exe
+C:\Users\Arturo\Desktop\E3-3_CeronUribeArturo\E3-3_CeronUribeArturo\bin\Debug\E3-3_CeronUribeArturo.pdb
+C:\Users\Arturo\Desktop\E3-3_CeronUribeArturo\E3-3_CeronUribeArturo\obj\Debug\E3-3_CeronUribeArturo.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Desktop\E3-3_CeronUribeArturo\E3-3_CeronUribeArturo\obj\Debug\E3-3_CeronUribeArturo.exe
+C:\Users\Arturo\Desktop\E3-3_CeronUribeArturo\E3-3_CeronUribeArturo\obj\Debug\E3-3_CeronUribeArturo.pdb
+C:\Users\Arturo\Desktop\Visual Studio Taquero\E3-3_CeronUribeArturo\E3-3_CeronUribeArturo\bin\Debug\E3-3_CeronUribeArturo.exe.config
+C:\Users\Arturo\Desktop\Visual Studio Taquero\E3-3_CeronUribeArturo\E3-3_CeronUribeArturo\obj\Debug\E3-3_CeronUribeArturo.exe
+C:\Users\Arturo\Desktop\Visual Studio Taquero\E3-3_CeronUribeArturo\E3-3_CeronUribeArturo\obj\Debug\E3-3_CeronUribeArturo.pdb
+C:\Users\Arturo\Desktop\Visual Studio Taquero\E3-3_CeronUribeArturo\E3-3_CeronUribeArturo\bin\Debug\E3-3_CeronUribeArturo.exe
+C:\Users\Arturo\Desktop\Visual Studio Taquero\E3-3_CeronUribeArturo\E3-3_CeronUribeArturo\bin\Debug\E3-3_CeronUribeArturo.pdb
+C:\Users\Arturo\Desktop\Visual Studio Taquero\E3-3_CeronUribeArturo\E3-3_CeronUribeArturo\obj\Debug\E3-3_CeronUribeArturo.csprojResolveAssemblyReference.cache
