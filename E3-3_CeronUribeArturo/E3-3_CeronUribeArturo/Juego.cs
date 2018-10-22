@@ -148,6 +148,11 @@ namespace E3_3_CeronUribeArturo
                             derrotas = derrotas + 1;
                         }
                     }
+                    else if (suma == 21)
+                    {
+                        Console.WriteLine("Ha ganado"); //Si es igual a 21 gana
+                        victorias = victorias + 1;
+                    }
                     else //Si son mas de 5 cartas pierde
                         {
                             Console.WriteLine("Ha perdido");
